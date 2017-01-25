@@ -34,7 +34,7 @@ npm i;
 vi config.json // For your config.
 ```
 
-# Run with pm2
+# Run with pm2 ( npm i -g pm2 )
 ```
 cd ~/.relax;
 pm2 start index.js;
