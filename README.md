@@ -1,7 +1,5 @@
-<h1>
-  <center>
+<h1 align="center">
     <img src="watch.png" alt="Relax Your Eyes in work time, built by CagatayCali" />
-  </center>
 </h1>
 
 # Relax your eyes on work time
