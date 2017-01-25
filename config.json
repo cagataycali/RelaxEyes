@@ -1,0 +1,9 @@
+{
+  "telegramToken": "YourOwn:TelegramToken",
+  "chatId": "YourChatToken",
+  "frequency": "*/15 * * * 1-5",
+  "sendMessage": true,
+  "message": "Relax your eyes..",
+  "sendSticker": true,
+  "sticker": "BQADAQADHAYAAknjsAgC7mVAV_XmMQI"
+}

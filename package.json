@@ -1,0 +1,29 @@
+{
+  "name": "relaxeyes",
+  "version": "1.0.0",
+  "description": "These codes is perfect way to relieve my eyes when I am at the computer. Built by Cagatay Cali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/RelaxEyes.git"
+  },
+  "keywords": [
+    "relax",
+    "eyes",
+    "cagatay",
+    "cali"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/RelaxEyes/issues"
+  },
+  "homepage": "https://github.com/cagataycali/RelaxEyes#readme",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "node-telegram-bot-api": "^0.26.0"
+  }
+}
