@@ -4,7 +4,9 @@
   "description": "These codes is perfect way to relieve my eyes when I am at the computer. Built by Cagatay Cali",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,8 @@
   "homepage": "https://github.com/cagataycali/RelaxEyes#readme",
   "dependencies": {
     "cron": "^1.2.1",
-    "node-telegram-bot-api": "^0.26.0"
-  }
+    "node-telegram-bot-api": "^0.26.0",
+    "snyk": "^1.317.0"
+  },
+  "snyk": true
 }
