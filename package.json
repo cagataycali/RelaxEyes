@@ -24,6 +24,6 @@
   "homepage": "https://github.com/cagataycali/RelaxEyes#readme",
   "dependencies": {
     "cron": "^1.2.1",
-    "node-telegram-bot-api": "^0.26.0"
+    "node-telegram-bot-api": "^0.64.0"
   }
 }
